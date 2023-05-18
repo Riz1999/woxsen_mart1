@@ -1,0 +1,8 @@
+Django==2.0.0
+gunicorn
+django-crispy-forms
+psycopg2
+pillow
+-e .
+# makemigrations
+# migrate
